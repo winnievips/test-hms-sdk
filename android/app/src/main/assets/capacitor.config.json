@@ -1,0 +1,6 @@
+{
+	"appId": "test.hms.huawei",
+	"appName": "test-hms-sdk",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
